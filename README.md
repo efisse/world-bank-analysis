@@ -119,7 +119,7 @@ This project investigates the key factors driving economic prosperity by analyzi
 ### Running the Analysis
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/world-bank-analysis.git
+git clone https://github.com/efisse/world-bank-analysis.git
 cd world-bank-analysis
 
 # Install dependencies
