@@ -122,9 +122,6 @@ This project investigates the key factors driving economic prosperity by analyzi
 git clone https://github.com/efisse/world-bank-analysis.git
 cd world-bank-analysis
 
-# Install dependencies
-pip install -r requirements.txt
-
 # Run the main analysis
 jupyter notebook notebooks/world_bank_analysis.ipynb
 ```
